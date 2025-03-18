@@ -1,0 +1,106 @@
+claim,label,model_prediction,claim_num_tokens,claim_avg_wrd_len
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says electric utilities are trying to fool you into amending your state Constitution in a way that gives them the authority to shut down net metering.",1,0,65,4.092307692307692
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Qataris dont really work.",0,0,43,3.7906976744186047
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Gov. Scott Walker (is) more than halfway to (his) 250,000 jobs goal.",0,1,56,3.5357142857142856
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The president of the United States ... agrees with me that marriage should be between a man and a woman.",1,0,59,3.830508474576271
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The IRS has been specifically forbidden ... from ever actually pursuing either civil or criminal remedies for people who dont purchase health insurance.",1,0,62,4.370967741935484
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Theres a tax credit of $2,400 to bond [former inmates] that an employer would get for hiring a convicted felon. Theres a federal bonding program -- you can get $5,000 to $25,000 in federal money to hire a convicted felon. And theres federal grants for felons to set up their own small businesses.",0,1,99,3.888888888888889
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Federal officials declared that grant funds could be used only for Milwaukees streetcar project, meaning it isnt possible to redirect the money to other modes of public transportation or to our public schools.",1,1,73,4.3561643835616435
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+A majority of our students are trapped in underperforming schools.",0,0,49,4.040816326530612
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Wendy Davis was just doing a fund-raiser in Chicago with the international socialists organization.",0,0,53,4.283018867924528
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Women own just 1 percent of the worlds land.",0,0,48,3.6875
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says Rick Perrys proposal on driver licenses and high school dropouts has been state law since 1989.",1,0,56,4.017857142857143
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Weve recovered (from the recession) faster and come farther than almost any other advanced country on Earth.",1,1,58,4.017241379310345
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+I will keep taxes low and cut them where I can. My opponent will raise them.",1,1,56,3.607142857142857
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The Pentagon under the Obama administration has just acknowledged seizing and burning the privately owned Bibles of American soldiers serving in Afghanistan.",1,0,61,4.540983606557377
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+There have been more than 300 mass shootings in the United States this year more than any other country in the world.",1,1,61,3.8852459016393444
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Sen. Obama has never taken on his party leaders on a single major issue.",1,0,53,3.7735849056603774
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Florida sends $135 billion and D.C. returns $150 billion.",1,0,50,3.8
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+EPA wants to regulate the family BBQ.",0,0,46,3.739130434782609
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says he opposed $716 billion cut to Medicare.",1,1,48,3.7291666666666665
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+If the United States moves ahead by itself (on cap-and-trade)... after 30 or 40 years, were going to reduce CO2 by less than 1 percent.",1,0,68,3.7058823529411766
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+There is more oil produced at home than we buy from the rest of the world the first time thats happened in nearly 20 years.",1,1,64,3.75
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Democrats in the Legislature in 2009 voted for various pork projects including a $5 million scoreboard for the Milwaukee Bucks.",0,1,60,4.15
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Israels per capita income is greater than probably three-fourths of the rest of the world.",1,1,54,4.018518518518518
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Illegal tobacco sales, price driven too high, has been connected to at least several cases of funding terrorism against us in multi-year investigations over the last decade and a half.",1,1,71,4.169014084507042
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says Scott Walker cut taxes for the wealthiest and raised taxes on 140,000 Wisconsin families.",1,1,54,4.092592592592593
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Californias Proposition 63 would CRIMINALIZE the sharing of ammunition between friends who may be hunting or shooting together.",0,0,57,4.4035087719298245
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+It's just outrageous that under President Bush, the National Institutes of Health have been basically decreased in funding.",0,0,59,4.186440677966102
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+From the Do As I Say Not As I Do department: federal employees owe $3.3 billion in back taxes.",1,1,60,3.6166666666666667
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+While Mandels been busy traveling the country raising campaign money, he hasnt shown up for work.",1,0,56,3.982142857142857
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says 2010 was the worst year ever for Americas doctors reimbursed by Medicare.",0,0,52,3.980769230769231
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says Mitt Romney has flip-flopped on abortion rights.",1,1,47,3.978723404255319
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+If you're over 65 years old in America today, you have no choice but to be in Medicare. Even if you want out of Medicare, you have to forfeit your Social Security to get out of it.",1,0,80,3.5625
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Using a surcharge on the cigarette tax to help pay for a new downtown sports arena is not feasible under state law.",1,1,61,3.8524590163934427
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+What we have done with the PATRIOT Act, weve given the government enormous powers. Weve given the government the right to reach deeply into peoples private lives, into their business affairs, without a court order.",1,1,78,4.115384615384615
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+A bill before the Georgia General Assembly would make presidential candidates meet citizenship requirements that are not in the U.S. Constitution.",1,1,60,4.45

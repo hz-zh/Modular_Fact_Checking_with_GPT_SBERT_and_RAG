@@ -1,0 +1,106 @@
+claim,label,claim_num_tokens,claim_avg_wrd_len,model_prediction
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The pope and Donald Trump and Tammy Baldwin all agree on eliminating the carried-interest tax break.",1,55,4.109090909090909,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Medicare costs have slowed down dramatically. In fact, the first two months of this fiscal year, Medicare costs were down even in nominal terms relative to the previous year.",1,71,4.042253521126761,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+I am very proud, as governor of Florida, that we signed the first divestment act, as it relates to Iran, divesting any investments in companies that would invest in Iran.",1,73,3.863013698630137,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says Barack Obamas favorability rating in Israel once clocked in at 4 percent.",0,52,3.980769230769231,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+When Atlanta Police Chief George Turner was interim head of the department, overall crime fell 14 percent and violent crime dropped 22.7 percent.",0,63,4.190476190476191,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The largest tax increase that we have ever had in our state is yours it is the business margins tax that you signed, governor.",0,64,3.8125,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Eighty percent of Wall Street executives and their spouses donations go to Democrats.",0,52,4.115384615384615,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Today, if you were raised poor, youre just as likely to stay poor as you were 50 years ago.",1,60,3.566666666666667,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Military spending cuts, known as the sequester, were President Barack Obamas idea.",1,53,4.0,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+I am the only senator who turned down the state pension plan for part-time legislators.",1,54,3.962962962962963,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+As state treasurer, Alexi Giannoulias lost $73 million in our kids college savings.",1,54,3.925925925925926,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Sixteen million jobs were created under Ronald Reagans presidency.",1,48,4.145833333333333,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Georgia has the second-highest rate of childhood obesity in the United States.",1,51,4.078431372549019,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+(Barack Obama) says hes going to reduce the long-term debt and deficit by $4 trillion, doesnt say how hes going to do it.",0,66,3.636363636363636,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Through the Clinton Foundation, the Clintons are now worth in excess of $100 million.",0,55,3.872727272727273,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+If the General Assembly does not address the states structural deficit, more than 23,000 education professionals will be immediately yanked out of Pennsylvania schools.",0,64,4.46875,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Despite attention on global warming, fewer Americans carpool today to work than carpooled in 1980 and SUVs have never been a larger proportion of the vehicles being sold in this country.",1,71,4.183098591549296,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says Hillary Clinton wants to go to a single-payer plan for health care",0,51,3.92156862745098,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The United States spends $2.2 billion on free cell phones, $27 million on Moroccan pottery classes and pays for the travel expenses for the watermelon queen in Alabama.",1,70,4.0285714285714285,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says there is an upcoming vote to preserve benefits of Texas homestead exemption for seniors and the disabled.",0,57,4.105263157894737,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Alexander Hamilton was an immigration hawk.",1,45,3.977777777777778,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Barack Obama's health care plan ""will cost taxpayers $1,700 more to cover each new person.""",0,58,3.793103448275862,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Fox News is banned in Canada because it violatesa law thatprevents news channels from lying to their viewers.",0,57,4.087719298245614,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says Rick Scotts record on jobs includes Florida ranked 2nd in the nation in long-term unemployment.",1,55,4.109090909090909,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The problem of unwanted sexual contacts in the military is not just a womans issue. More than half of the victims are men.",1,63,3.8253968253968256,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Under Rosemary Lehmberg, the Travis County D.A.s office convened the grand jury that indicted Rick Perry.",0,56,4.125,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says they said it was impossible to balance a budget at the same time, with an $11 billion deficit and we did it.",1,64,3.625,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+This budget also reflects the smallest state government workforce per 1,000 residents in Florida in this century.",1,56,4.25,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+One out of five of our children live in a family thats on food stamps.",1,54,3.648148148148149,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+The president promised to close the space gap, but he now seems intent on repeating the events that created the space gap in the first place -- putting in place a new rocket design and then trying to underfund the effort...",1,81,4.0,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Theres a loophole where you can sell guns without a background check 40 percent of guns are sold that way at gun shows and over the Internet.",1,66,3.878787878787879,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Insured Floridians pay about $2,000 for every hospital stay to cover the cost of the uninsured.",1,56,3.946428571428572,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Im not a conspiracy theorist and I never allow conspiracy theorists on my program.",0,53,3.962264150943396,1
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Barack Obama and Hillary Clinton have changed their positions (on the Iraq war withdrawal) to follow Chris Dodd.",1,59,4.0,0
+"Classify the truthfulness of the following text out of the following categories: '1' if the statement is true, '0' if the statement is false. Do not use any other labels:
+
+Says that during his eight years as Florida governor, we created 1.3 million net new jobs -- more jobs created than Texas.",1,62,3.903225806451613,0

@@ -1,0 +1,2 @@
+temp,n,rand_state,acc,kappa,sys_msg,user_msg,sys_msg_num_tokens,sys_msg_avg_wrd_len,usr_msg_num_tokens,usr_msg_avg_wrd_len,dataset_name
+0.9,50,100,0.58,0.16000000000000003,,"Classify the truthfulness of the text out of the following categories: '1' (if the claim is true), '0' (if the claim is false). Think logically about the structure of the sentence; does it sound like a lie?",0,0,50,3.4,liar_test
