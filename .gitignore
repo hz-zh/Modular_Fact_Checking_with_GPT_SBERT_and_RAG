@@ -4,6 +4,8 @@
 /datasets/FEVER/fever2-adversarial.jsonl
 /datasets/FEVER/feverous_train_challenges.jsonl
 /datasets/LIAR
+/presentation
 work_planning.gdoc
 .DS_Store
-DSA598_sem_pres_01.gslides
+
+transcribe_voice_notes.ipynb
