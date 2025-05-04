@@ -7,6 +7,9 @@
 /presentation
 /work_documents
 /knowledge_base
+/models
+/datasets
+/chroma_db
 work_planning.gdoc
 .DS_Store
 
