@@ -1,15 +1,10 @@
-/datasets/FEVER/AVeriTeC
-/datasets/FEVER/wiki-pages
-/datasets/FEVER/fever-train.jsonl
-/datasets/FEVER/fever2-adversarial.jsonl
-/datasets/FEVER/feverous_train_challenges.jsonl
-/datasets/LIAR
 /presentation
 /work_documents
 /knowledge_base
 /models
 /datasets
 /chroma_db
+/archive
 work_planning.gdoc
 .DS_Store
 
