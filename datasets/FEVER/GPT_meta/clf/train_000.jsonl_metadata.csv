@@ -1,2 +1,0 @@
-dataset_name,size,avg_evdc_len,max_evdc_len,min_evdc_len,avg_evdc_tkns,avg_claim_tkns,max_claim_tkns,min_claim_tkns,sys_msg,user_msg,sys_msg_num_tokens,sys_msg_avg_wrd_len,usr_msg_num_tokens,usr_msg_avg_wrd_len
-prompt_v1_segmented_n100_03-16_000.jsonl,100,2.54,18,2,46.33,11.51,20,7,,"Classify the truthfulness of the text out of the following categories: '1' (if the claim is true), '0' (if the claim is false), given the evidence. Do not use any other labels.",0,0,45,3.2222222222222223

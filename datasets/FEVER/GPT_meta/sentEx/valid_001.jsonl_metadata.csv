@@ -1,2 +1,0 @@
-dataset_name,size,avg_evdc_len,max_evdc_len,min_evdc_len,avg_evdc_tkns,avg_claim_tkns,max_claim_tkns,min_claim_tkns,sys_msg,user_msg,sys_msg_num_tokens,sys_msg_avg_wrd_len,usr_msg_num_tokens,usr_msg_avg_wrd_len
-prompt_v1_segmented_n60_03-16_001.jsonl,60,2.6333333333333333,52,1,74.68333333333334,11.333333333333334,21,7,,Extract sentences from the source text that are relevant (either supporting or refuting) to the preceding claim. Return a comma separated list of sentences.,0,0,28,4.75
