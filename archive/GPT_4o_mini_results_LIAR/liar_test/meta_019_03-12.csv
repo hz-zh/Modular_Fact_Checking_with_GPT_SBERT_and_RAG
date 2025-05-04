@@ -1,2 +1,0 @@
-temp,n,rand_state,acc,kappa,sys_msg,user_msg,sys_msg_num_tokens,sys_msg_avg_wrd_len,usr_msg_num_tokens,usr_msg_avg_wrd_len,dataset_name
-0.95,50,100,0.56,0.12698412698412698,,"Classify text out of the following categories: '1' (if the claim is true), '0' (if the claim is false). Think logically about the structure of the sentence; does it sound like a lie?",0,0,46,3.260869565217391,liar_test

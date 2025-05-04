@@ -1,2 +1,0 @@
-temp,n,rand_state,acc,kappa,sys_msg,user_msg,dataset_name,sys_msg_num_tokens,sys_msg_avg_wrd_len,usr_msg_num_tokens,usr_msg_avg_wrd_len
-0.95,35,100,0.5142857142857142,0.0356564019448947,You are a fact checking classifier.,"Classify the truthfulness of the text out of the following categories: '1' (if the claim is true), '0' (if the claim is false). Do not use any other labels.",liar_test,7,4.285714285714286,41,3.1219512195121952
