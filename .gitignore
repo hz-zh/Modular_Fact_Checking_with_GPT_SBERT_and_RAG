@@ -2,7 +2,14 @@
 /work_documents
 /knowledge_base
 /models
-/datasets
+/datasets/LIAR
+/datasets/FEVER/AVeriTeC
+/datasets/FEVER/fever-scorer
+/datasets/FEVER/paper_test_results
+/datasets/FEVER/wiki-pages
+
+
+
 /chroma_db
 /archive
 work_planning.gdoc
