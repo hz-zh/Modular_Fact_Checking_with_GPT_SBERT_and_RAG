@@ -99,4 +99,4 @@ Detailed results and analysis for different system configurations can be found w
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPL. See the [LICENSE](LICENSE) file for details.
